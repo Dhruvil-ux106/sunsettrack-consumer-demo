@@ -1,0 +1,23 @@
+{
+  "name": "sunsettrack-consumer-demo",
+  "version": "1.0.0",
+  "description": "A working Express.js demonstration of the SunsetTrack API deprecation lifecycle middleware.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "sunsettrack",
+    "express",
+    "api-deprecation",
+    "middleware",
+    "nodejs"
+  ],
+  "author": "Dhruvil Shah",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.22.3",
+    "sunsettrack": "^0.1.0"
+  }
+}
